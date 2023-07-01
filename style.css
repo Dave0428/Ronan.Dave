@@ -1,0 +1,46 @@
+
+body{
+background-color: khaki;
+height :720px;
+width:1080px;
+
+}
+
+header{
+background-color: darkgreen;
+padding:10px;
+font-weight:bolder;
+}
+
+li{
+margin:5px;
+list-style:none;
+}
+
+a{
+text-decoration:non;
+}
+
+img{
+    height:50px;
+    width:50px;
+    border-radius:10px;
+    background-color:white;
+}
+
+button{
+
+height:30px;
+width:100px;
+border-radius:10px 50px;
+background-color:blue;
+margin-left:20px;
+
+}
+.A{
+background-color: black ;
+height :20px;
+width :80px;
+    color: white;
+    font-size:small;
+}
